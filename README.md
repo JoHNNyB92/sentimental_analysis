@@ -12,12 +12,12 @@ are removed before any further analysis and processing.
 
 The project is separated into two basic questions:
 
-Question A:
+## Question A:
 
 • We use the training, development and test examples, in order to create and evaluate a supervised
 classifier for tweets with the help of a machine learning algorithm and feature set. 
 
-Question B:
+## Question B:
 
 We apply an existing application for sentiment analysis on twitter data, in order to classify and evaluate only the
 test example and compare its performance with the performance of the supervised classifier obtained in
